@@ -6,3 +6,5 @@ This repository is for learning Codex.
 
 1. Open index.html in a browser
 2. Click the button to see the alert
+3. test
+
